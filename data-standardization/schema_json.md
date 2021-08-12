@@ -63,7 +63,7 @@ For City Protect Incident Reports, we get a beautiful JSON response of everythin
 
 In this case, we know everything we need to ensure we have a record in the `datasets` table to connect our imported incident reports to. Next, we just need to ensure the columns from the data match our columns in the appropriate table, link the foreign keys and we are done!
 
-Another example would be in the scrapers repo, /USA/CA/COL\_LosRiosComm found [here](https://github.com/Police-Data-Accessibility-Project/Scrapers/tree/master/USA/CA/COL_LosRiosComm). We know from the prefix, it is a college. But the data downloaded from this website is in PDF format which may not be easy to discern the rest of the details without reliance on OCR, and at most would just give us the name of the agency.
+Another example would be in the scrapers repo, /USA/CA/sacramento\_county/colleges/LosRiosComm found [here](https://github.com/Police-Data-Accessibility-Project/PDAP-Scrapers/tree/main/USA/CA/sacramento_county/colleges/LosRiosComm). We know from the prefix that it is a college. But the data downloaded from the data source website is in PDF format which may be challenging to parse without reliance on OCR, and at most would just give us the name of the agency.
 
 ## Solution
 
@@ -91,7 +91,7 @@ The solution to the issue of agencies delivering wildly different amounts of inf
             ]
         }
     ]
-    
+
 }
 ```
 

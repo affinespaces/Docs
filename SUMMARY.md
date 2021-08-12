@@ -5,7 +5,7 @@
 ## Components
 
 * [Data Collection](components/data-collection/README.md)
-  * [Write a Data Scraper](https://github.com/Police-Data-Accessibility-Project/Scrapers/blob/master/CONTRIBUTING.md)
+  * [Write a Data Scraper](https://github.com/Police-Data-Accessibility-Project/Scrapers/blob/main/CONTRIBUTING.md)
   * [Datasets](components/data-collection/dataset-catalog/README.md)
     * [Submit or update Datasets](components/data-collection/dataset-catalog/submit-or-update-datasets/README.md)
       * [Validate Datasets PRs](components/data-collection/dataset-catalog/submit-or-update-datasets/validate-datasets-prs.md)
@@ -94,7 +94,7 @@
   * [Cultural Principles](meta/about/cultural-principles.md)
 * [Policy](meta/policy/README.md)
   * [PDAP Privacy Policy](meta/policy/pdap-privacy-policy.md)
-  * [Code of Conduct](https://github.com/Police-Data-Accessibility-Project/PDAP-Scrapers/blob/master/CODE_OF_CONDUCT.md)
+  * [Code of Conduct](https://github.com/Police-Data-Accessibility-Project/PDAP-Scrapers/blob/main/CODE_OF_CONDUCT.md)
   * [Data Chain of Custody](meta/policy/data-chain-of-custody.md)
   * [Password Management](meta/policy/password-management.md)
 * [Legal](meta/legal/README.md)

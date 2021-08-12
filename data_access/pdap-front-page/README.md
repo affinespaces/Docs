@@ -39,7 +39,7 @@ Test your changes **locally first**, if possible. Include **screenshots with you
 
 Markdown files in the top level `content` directory are sourced via the [gatsby-source-filesystem](https://www.gatsbyjs.org/packages/gatsby-source-filesystem/?=file) plugin and parsed via the [gatsby-transformer-remark](https://www.gatsbyjs.org/packages/gatsby-transformer-remark/?=markd) plugin. The content is fed as props to the React templates via [GraphQL page queries](https://www.gatsbyjs.org/docs/page-query/).
 
-The static site content is hosted on [Github Pages](https://pages.github.com/) from the gh-pages branch. The static files are built and deployed to this branch automatically via [GitHub Actions](https://github.com/features/actions) whenever changes are merged to the master branch.
+The static site content is hosted on [Github Pages](https://pages.github.com/) from the `gh-pages` branch. The static files are built and deployed to this branch automatically via [GitHub Actions](https://github.com/features/actions) whenever changes are merged to the `main` branch.
 
 ### Setup
 
