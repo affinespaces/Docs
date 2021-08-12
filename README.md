@@ -27,7 +27,7 @@ If there are DoltHub Pull Requests pending, you can [run these utilities to chec
 
 ### Contribute Code
 
-Know python? [Contribute to our **Data Scrapers repo**](https://github.com/Police-Data-Accessibility-Project/PDAP-Scrapers/blob/master/CONTRIBUTING.md).
+Know python? [Contribute to our **Data Scrapers repo**](https://github.com/Police-Data-Accessibility-Project/PDAP-Scrapers/blob/main/CONTRIBUTING.md).
 
 [Head to the GitHub Roadmap](https://github.com/orgs/Police-Data-Accessibility-Project/projects/17) to work on infrastructure issues.
 
